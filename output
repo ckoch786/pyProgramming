@@ -1,0 +1,44 @@
+Opening and closing the file
+
+Reading characters from the file
+L
+ine 1
+
+Reading the entire file at once
+Line 1
+This is line 2
+That makes this line 3
+
+
+Reading characters from a line
+L
+ine 1
+
+Reading one line at a time
+Line 1
+
+This is line 2
+
+That makes this line 3
+
+
+Reading the entire file into a list
+['Line 1\r\n', 'This is line 2\r\n', 'That makes this line 3\r\n']
+3
+Line 1
+
+This is line 2
+
+That makes this line 3
+
+
+Looping through the file, line by line
+Line 1
+
+This is line 2
+
+That makes this line 3
+
+
+
+Press the enter key to exit
