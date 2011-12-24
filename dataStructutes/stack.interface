@@ -1,0 +1,18 @@
+def stack():
+    """A stack is  a FIFO data structute"""
+
+
+    #removes item from the top of the stack
+    # throws a stack underflow exception if stack is empty
+    pop()
+
+    #returns item from the top of the stack
+    # throws a stack underflow exception if stack is empty
+    top()
+
+    # adds item to the bottom of the stack
+    push()
+
+    # Returns true is stack is empty else returns false
+    isEmpty()
+    
