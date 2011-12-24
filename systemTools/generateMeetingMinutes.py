@@ -5,7 +5,7 @@
 	os.getcwd()       <==> pwd
 	os.uname()        <==> ?
         os.open(path ?)   <==> ?
-        
+        os.
 
 """
 
